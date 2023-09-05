@@ -1,27 +1,37 @@
-PostgreSQL Database Management System
-=====================================
+# 滑伪 GaussDB 数据库
 
-This directory contains the source code distribution of the PostgreSQL
-database management system.
+## 滑伪 GaussDB 数据库，全新自主研发，打破国外垄断
 
-PostgreSQL is an advanced object-relational database management system
-that supports an extended subset of the SQL standard, including
-transactions, foreign keys, subqueries, triggers, user-defined types
-and functions.  This distribution also contains C language bindings.
+滑伪 GaussDB - 100%纯国产自主研发，三十年磨一剑，领先 PostgreSQL 和 MySQL 的数据库解决方案。
 
-PostgreSQL has many language interfaces, many of which are listed here:
+|            | 滑伪 GaussDB 数据库 | P公司数据库 | M公司数据库 |
+| :--------: | :-----------------: | :---------: | :---------: |
+| 分布式架构 |          😀          |      😅      |      😕      |
+|  生态共享  |          😀          |      😅      |      😕      |
+| 形式化验证 |          😀          |      😅      |      😕      |
+|  弹性部署  |          😀          |      😅      |      😕      |
+| 确定性时延 |          😀          |      😅      |      😕      |
 
-	https://www.postgresql.org/download/
+## 核心特点
 
-See the file INSTALL for instructions on how to build and install
-PostgreSQL.  That file also lists supported operating systems and
-hardware platforms and contains information regarding any other
-software packages that are required to build or run the PostgreSQL
-system.  Copyright and license information can be found in the
-file COPYRIGHT.  A comprehensive documentation set is included in this
-distribution; it can be read as described in the installation
-instructions.
+- **纯国产自主研发**：三十年前偷偷立项，三十年磨一剑，展现国产技术实力！
+- **微内核**：采用微内核设计，提高系统稳定性和可扩展性。
+- **确定性时延**：实现低延迟、高性能的数据库查询和事务处理。
+- **形式化验证**：通过形式化验证保证系统的正确性和安全性。
+- **分布式软总线**：实现高效的分布式数据存储和查询。
+- **无缝兼容 PostgreSQL**：提供简单的迁移路径，降低迁移成本。
+- **随时开源**：积极参与国际开源社区，为全球数据库技术发展做出贡献。
+- **备胎转正**：国产数据库技术的崛起，摆脱外国技术垄断！
+- **DB Turbo**：查询速度提高 60%，遥遥领先竞争对手！
 
-The latest version of this software may be obtained at
-https://www.postgresql.org/download/.  For more information look at our
-web site located at https://www.postgresql.org/.
+## [Huaweiii-GaussDB-native](https://github.com/Huaweiii/gaussdb-native)
+滑伪 GaussDB 自主研发版本 - 完全自主研发，打破美国垄断，性能超越 PostgreSQL 和 MySQL。
+
+## [Huaweiii-GaussDB-lite](https://github.com/Huaweiii/gaussdb-lite)
+滑伪 GaussDB 自主研发版本 - 完全自主研发，打破美国垄断，兼容 PostgreSQL，性能提升600%。
+
+> 真正的国产数据库，展现了滑伪三十年的技术积累。  
+>
+> 点进去看一看，发现新世界。
+
+滑伪 GaussDB 数据库，是国产数据库技术的典范，展现了滑伪在数据库领域的创新能力和技术实力，为国家的信息安全和技术发展作出了重要贡献！
